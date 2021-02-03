@@ -1,0 +1,8 @@
+check_configuration.c:19:6:check_date	40	static
+check_configuration.c:55:6:check_time	24	static
+check_configuration.c:73:6:check_alarm_delay	16	static
+check_configuration.c:89:6:check_alarm_duration	16	static
+check_configuration.c:106:6:is_number	16	static
+check_configuration.c:124:6:check_user_pin	16	static
+check_configuration.c:141:6:configuration_rejected	16	static
+check_configuration.c:152:6:configuration_accepted	16	static

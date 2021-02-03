@@ -1,0 +1,8 @@
+ds1307rtc.c:37:9:bcd2Dec	0	static
+ds1307rtc.c:48:9:dec2Bcd	0	static
+ds1307rtc.c:53:8:ds1307rtc_init	8	static
+ds1307rtc.c:70:8:ds1307rtc_get_date_time	16	static
+ds1307rtc.c:90:8:ds1307rtc_set_date_time	32	static
+ds1307rtc.c:113:8:ds1307rtc_dispose	0	static
+ds1307rtc.c:117:6:HAL_I2C_MemTxCpltCallback	0	static
+ds1307rtc.c:121:6:HAL_I2C_MemRxCpltCallback	8	static

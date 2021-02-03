@@ -1,0 +1,4 @@
+check_procedure.c:13:6:command_rejected	16	static
+check_procedure.c:25:6:command_accepted	16	static
+check_procedure.c:36:6:user_pin_rejected	16	static
+check_procedure.c:47:6:matchPin	16	static

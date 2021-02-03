@@ -1,0 +1,6 @@
+procedure.c:25:6:start_sequence	16	static
+procedure.c:49:6:getSymbols	16	static
+procedure.c:81:6:checkSymbol	8	static
+procedure.c:100:6:clear_vector	16	static
+procedure.c:114:6:boot_system	4	static
+procedure.c:130:6:setOrReset	16	static

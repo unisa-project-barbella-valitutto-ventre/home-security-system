@@ -1,0 +1,2 @@
+system_log.c:17:7:get_time	24	static
+system_log.c:30:6:period_log	312	static

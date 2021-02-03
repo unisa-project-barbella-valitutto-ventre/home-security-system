@@ -1,0 +1,6 @@
+keypad.c:19:6:KeyPad_Init	32	static
+keypad.c:42:10:KeyPad_Scan	16	static
+keypad.c:77:10:KeyPad_WaitForKey	24	static
+keypad.c:108:6:buzz	8	static
+keypad.c:122:6:key_pad_get_char	16	static
+keypad.c:188:7:key_pad_get_pin	24	static

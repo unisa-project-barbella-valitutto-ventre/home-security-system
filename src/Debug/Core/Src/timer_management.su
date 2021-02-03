@@ -1,0 +1,2 @@
+timer_management.c:42:6:HAL_TIM_PeriodElapsedCallback	16	static
+timer_management.c:101:6:HAL_TIM_PWM_PulseFinishedCallback	16	static

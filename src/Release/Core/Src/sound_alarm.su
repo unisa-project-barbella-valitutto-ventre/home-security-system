@@ -1,0 +1,2 @@
+sound_alarm.c:31:6:ring_alarm	8	static
+sound_alarm.c:14:6:check_alarms	0	static

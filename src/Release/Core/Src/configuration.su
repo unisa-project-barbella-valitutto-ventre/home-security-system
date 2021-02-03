@@ -1,0 +1,5 @@
+configuration.c:34:6:setup	0	static
+configuration.c:47:6:default_configuration	8	static
+configuration.c:70:6:user_configuration	8	static
+configuration.c:78:6:HAL_UART_RxCpltCallback	8	static
+configuration.c:198:6:HAL_UART_TxCpltCallback	16	static
