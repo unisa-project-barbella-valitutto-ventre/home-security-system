@@ -1,5 +1,5 @@
 # Home Security System
-This repository is created for the project related to the "Tecnologie Digitali" subject at the University of Salerno.
+This repository is created for the project related to the "Embedded System" subject at the University of Salerno.
 
 ## Group Members
 * [Michele Barbella](https://github.com/michelebarbella)
