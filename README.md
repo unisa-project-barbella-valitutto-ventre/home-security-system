@@ -7,8 +7,8 @@ This repository is created for the project related to the "Embedded System" subj
 * [Salvatore Ventre](https://github.com/salventre)
 ___
 # Problem Description
-It realizes an embedded system *"Home Security System"* to protect home from undesired intrusions. The system is required to manage two different kinds of intrusion detection sensors: area, used to detect people or animals moving inside an area, and barrier, to detect intruders crossing a virtual line. It adopts a PIR sensor for area alarm, LDR sensor for barrier alarm, an active buzzer for alarm sound, a 4x4 keypad for inserting the pin and for managing the system. The behavior of the system, managed by the *STM32F401RE micro-controller*, was programmed through the development set *STM32CubeIDE* and the use of the C language.
+It realizes an embedded system *Home Security System* to protect home from undesired intrusions. The system is required to manage two different kinds of intrusion detection sensors: area, used to detect people or animals moving inside an area, and barrier, to detect intruders crossing a virtual line. It adopts a PIR sensor for area alarm, LDR sensor for barrier alarm, an active buzzer for alarm sound, a 4x4 keypad for inserting the pin and for managing the system. The behavior of the system, managed by the *STM32F401RE micro-controller*, was programmed through the development set *STM32CubeIDE* and the use of the C language.
 ___
-For more information, read the [report](link here).
+For more information, read the [report](https://github.com/unisa-project-barbella-valitutto-ventre/home-security-system/blob/main/doc/Home%20Security%20System%20Documentation%20-%20Group%2010.pdf).
 
 ##### Barbella, Valitutto, Ventre
